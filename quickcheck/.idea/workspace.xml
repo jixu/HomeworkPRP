@@ -2,230 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d79e9a5e-bdd2-4cc9-890e-db9d4e508f01" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$0218964b9bb7b9ffd4f4$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$0218964b9bb7b9ffd4f4$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$0218964b9bb7b9ffd4f4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$02193fefe92799197cbc$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$02193fefe92799197cbc.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$029255a8431c15cf4c57$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$029255a8431c15cf4c57$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$029255a8431c15cf4c57.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$0e0f94a9f04424d5ab76$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$0e0f94a9f04424d5ab76$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$0e0f94a9f04424d5ab76.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$0f3648008bca3ccad58d$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$0f3648008bca3ccad58d.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$1264f47c3961c707656d$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$1264f47c3961c707656d$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$1264f47c3961c707656d.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$2303ac2723c6047c3d4c$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$2303ac2723c6047c3d4c$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$2303ac2723c6047c3d4c.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$33df393c9568f4b71804$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$33df393c9568f4b71804$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$33df393c9568f4b71804.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$499fcf220eb84e578355$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$499fcf220eb84e578355$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$499fcf220eb84e578355.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$4bd68cb7a220f24efcf1$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$4bd68cb7a220f24efcf1$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$4bd68cb7a220f24efcf1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$5b5653e55f5275e0cb0f$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$5b5653e55f5275e0cb0f.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$6db4987a174cc10ac597$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$6db4987a174cc10ac597$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$6db4987a174cc10ac597.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$72837a608060bed8e8b3$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$72837a608060bed8e8b3$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$72837a608060bed8e8b3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$7aebf1e6de8af138ca42$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$7aebf1e6de8af138ca42$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$7aebf1e6de8af138ca42.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$81009defc1ae4389cc52$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$81009defc1ae4389cc52.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$83c11fa0f91ac65c927c$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$83c11fa0f91ac65c927c$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$83c11fa0f91ac65c927c.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$a94fe85b4b4613a402c8$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$a94fe85b4b4613a402c8$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$a94fe85b4b4613a402c8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$d0231fac0a48d807f80b$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$d0231fac0a48d807f80b$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$d0231fac0a48d807f80b.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$e3e99aeff725b8821200$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$e3e99aeff725b8821200$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$e3e99aeff725b8821200.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$e44e800b889e41af87f5$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$e44e800b889e41af87f5$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$e44e800b889e41af87f5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/scala-2.9.2/sbt-0.12/cache/default-2d9f2e/compile/copy-resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/scala-2.9.2/sbt-0.12/cache/default-d1c4b5/compile/copy-resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/data" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib_managed/jars/org.hamcrest/hamcrest-core/hamcrest-core-1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/cache/assignment/compile/inc_compile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/scala-2.9.2/sbt-0.12/cache/default-2d9f2e/global/update/inputs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/scala-2.9.2/sbt-0.12/cache/default-d1c4b5/global/update/inputs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/scala-2.10/cache/submission/global/update/inputs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/cache/assignment/global/update/inputs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib_managed/jars/junit/junit/junit-4.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/streams/$global/compilers/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/streams/$global/ivy-sbt/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/streams/$global/project-descriptors/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/streams/compile/compile-inputs/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/streams/compile/defined-sbt-plugins/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/streams/$global/ivy-sbt/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/streams/$global/project-descriptors/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivy-sbt/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/project-descriptors/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/scala-2.9.2/sbt-0.12/cache/default-2d9f2e/global/update/output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/scala-2.9.2/sbt-0.12/cache/default-d1c4b5/global/update/output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/scala-2.10/cache/submission/global/update/output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/cache/assignment/global/update/output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib_managed/jars/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib_managed/jars/org.scalatest/scalatest_2.10/scalatest_2.10-1.9.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib_managed/jars/org.scala-tools.testing/test-interface/test-interface-0.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.history" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/CourseraHttp.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/GradingFeedback.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/quickcheck/Heap.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/IdeaProject.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/ProgFunBuild.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/quickcheck/QuickCheck.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/quickcheck/QuickCheckSuite.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/RecordingLogger.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/RichJsValue.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__junit_junit_4_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_hamcrest_hamcrest_core_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_actors_2_10_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_10_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_10_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_tools_testing_test_interface_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalacheck_scalacheck_2_10_1_10_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalatest_scalatest_2_10_1_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__scala_compiler_2_10_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/ScalaTestRunner.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/Settings.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/StyleChecker.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea_modules/assignment-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea_modules/assignment.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/build.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/buildPlugins.sbt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/buildSettings.sbt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/streams/compile/$global/$global/data" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-2d9f2e-compile-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-2d9f2e-compile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-2d9f2e-docs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-2d9f2e-optional.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-2d9f2e-plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-2d9f2e-pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-2d9f2e-provided.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-2d9f2e-runtime-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-2d9f2e-runtime.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-2d9f2e-sources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-2d9f2e-test-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-2d9f2e-test.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-d1c4b5-compile-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-d1c4b5-compile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-d1c4b5-docs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-d1c4b5-optional.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-d1c4b5-plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-d1c4b5-pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-d1c4b5-provided.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-d1c4b5-runtime-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-d1c4b5-runtime.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-d1c4b5-sources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-d1c4b5-test-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-d1c4b5-test.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/highlighting.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/ivy-report.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/ivy-report.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/ivy-report.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/ivy-report.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.scala-ide.sdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/streams/$global/ivy-configuration/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/streams/$global/update/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/streams/compile/compile/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/streams/compile/copy-resources/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/streams/$global/ivy-configuration/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/streams/$global/update-classifiers/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/streams/$global/update/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/compilers/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivy-configuration/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/common/package.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/plugins.sbt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/progfun-quickcheck-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck$sources_javadoc_2.10-compile-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck$sources_javadoc_2.10-compile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck$sources_javadoc_2.10-docs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck$sources_javadoc_2.10-optional.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck$sources_javadoc_2.10-plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck$sources_javadoc_2.10-pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck$sources_javadoc_2.10-provided.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck$sources_javadoc_2.10-runtime-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck$sources_javadoc_2.10-runtime.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck$sources_javadoc_2.10-sources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck$sources_javadoc_2.10-test-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck$sources_javadoc_2.10-test.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-compile-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-compile-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-compile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-compile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-docs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-docs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-optional.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-optional.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-provided.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-provided.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-runtime-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-runtime-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-runtime.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-runtime.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-sources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-sources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-test-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-test-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-test.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-quickcheck-progfun-quickcheck_2.10-test.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/progfun-quickcheck.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/projectCodeStyle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/default/default-2d9f2e/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/default/default-d1c4b5/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/progfun-quickcheck/progfun-quickcheck$sources_javadoc_2.10/1.0.0/resolved.xml.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/progfun-quickcheck/progfun-quickcheck_2.10/1.0.0/resolved.xml.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/progfun-quickcheck/progfun-quickcheck_2.10/1.0.0/resolved.xml.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/default/default-2d9f2e/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/resolution-cache/default/default-d1c4b5/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/progfun-quickcheck/progfun-quickcheck$sources_javadoc_2.10/1.0.0/resolved.xml.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/progfun-quickcheck/progfun-quickcheck_2.10/1.0.0/resolved.xml.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/progfun-quickcheck/progfun-quickcheck_2.10/1.0.0/resolved.xml.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/scalastyle_config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea_modules/submission.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="progfun-quickcheck.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -293,13 +71,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="QuickCheck.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="QuickCheck.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/quickcheck/QuickCheck.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="680" selection-end="680" vertical-scroll-proportion="0.766147">
+            <state line="15" column="14" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#20#35#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.sbt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="28" selection-start="255" selection-end="255" vertical-scroll-proportion="0.1317716">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -387,122 +174,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="quickcheck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="progfun-quickcheck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quickcheck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quickcheck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QuickCheckSuite.scala" />
-              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="progfun-quickcheck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quickcheck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quickcheck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QuickCheck.scala" />
-              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="progfun-quickcheck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quickcheck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quickcheck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Heap.scala" />
-              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="progfun-quickcheck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quickcheck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -743,7 +414,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="22" width="1420" height="831" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -760,8 +431,8 @@
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -875,7 +546,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project/ProgFunBuild.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="664" column="11" selection-start="27387" selection-end="27387" vertical-scroll-proportion="0.0" />
+        <state line="664" column="11" selection-start="27387" selection-end="27387" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/quickcheck/QuickCheck.scala">
@@ -889,7 +562,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project/ProgFunBuild.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="664" column="11" selection-start="27387" selection-end="27387" vertical-scroll-proportion="0.0" />
+        <state line="664" column="11" selection-start="27387" selection-end="27387" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_21.jdk/Contents/Home/src.zip!/java/io/File.java">
@@ -899,7 +574,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project/ProgFunBuild.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="664" column="11" selection-start="27387" selection-end="27387" vertical-scroll-proportion="0.75373137" />
+        <state line="664" column="11" selection-start="27387" selection-end="27387" vertical-scroll-proportion="0.75373137">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/common/package.scala">
@@ -925,10 +602,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/quickcheck/QuickCheck.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="680" selection-end="680" vertical-scroll-proportion="0.766147">
+        <state line="15" column="14" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#20#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="28" selection-start="255" selection-end="255" vertical-scroll-proportion="0.1317716">
+          <folding />
         </state>
       </provider>
     </entry>

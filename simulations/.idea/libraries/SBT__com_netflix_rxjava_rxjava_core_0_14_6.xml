@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.netflix.rxjava:rxjava-core:0.14.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/com.netflix.rxjava/rxjava-core/rxjava-core-0.14.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib_managed/docs/com.netflix.rxjava/rxjava-core/rxjava-core-0.14.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.netflix.rxjava/rxjava-core/rxjava-core-0.14.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
