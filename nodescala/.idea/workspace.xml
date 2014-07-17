@@ -2,33 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21a83678-f869-4807-8ce3-4ef79900fcad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__junit_junit_4_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_hamcrest_hamcrest_core_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalatest_scalatest_2_10_1_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__scala_compiler_2_10_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/progfun-nodescala-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/progfun-nodescala.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulations/target/.history" afterPath="$PROJECT_DIR$/../simulations/target/.history" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulations/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../simulations/.idea/workspace.xml" />
     </list>
     <ignored path="progfun-nodescala.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385373554024" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/common/search-cluster.xml" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385437439892" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/federation/RobotSearchChainMatchType.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385374799781" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/common/search-cluster.xml" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385633052017" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/federation/RobotSearchChainMatchType.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385563453890" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/utils/DocumentUtils.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385437439892" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/Constant.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385433517319" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/Constant.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385533578614" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/utils/DocumentUtilsTest.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385437439892" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/federation/FederationRankTest.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385374799781" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/utils/YuidDecoderTest.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385455852392" ignored="false" />
-    <file path="/YuidDecoderTest.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385449020778" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/federation/FederationRankTest.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385563453890" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/utils/YuidDecoderTest.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385528782400" ignored="false" />
+    <file path="/YuidDecoderTest.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385526908367" ignored="false" />
     <file path="/package.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385480415711" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/scala/com/yahoo/slingstone/deathstar/federation/PredictionClient.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385455893892" ignored="false" />
-    <file path="/PredictionClient.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385449722598" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/core/Document.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385437439892" ignored="false" />
-    <file path="/Document.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385432369398" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/scala/com/yahoo/slingstone/deathstar/federation/PredictionClient.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385563453889" ignored="false" />
+    <file path="/PredictionClient.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385547786907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/core/Document.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385633052017" ignored="false" />
+    <file path="/Document.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385620897799" ignored="false" />
     <file path="/DocumentUtils.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385436456515" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/blending/NaiveBlender.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385437439892" ignored="false" />
     <file path="/NaiveBlender.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385436197708" ignored="false" />
@@ -36,11 +28,11 @@
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/blending/NaiveBlenderTest.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385437439892" ignored="false" />
     <file path="/NaiveBlenderTest.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385436238674" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/core/DocumentTest.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385437439892" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/userprofile/UserProfile.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385455852392" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/federation/PredictionClientTest.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385455852392" ignored="false" />
-    <file path="/PredictionClientTest.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385448987995" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/searcher/FederationLayerSearcher.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385456143156" ignored="false" />
-    <file path="/FederationLayerSearcher.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385456141880" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/userprofile/UserProfile.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385563453890" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/federation/PredictionClientTest.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385563453890" ignored="false" />
+    <file path="/PredictionClientTest.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385547941702" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/searcher/FederationLayerSearcher.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385533578614" ignored="false" />
+    <file path="/FederationLayerSearcher.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385532396837" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/QueryBuildingSearcher.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385455852392" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/deathstar/searcher/FetchSummaryConfig.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385455852392" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/UISReaderSearcher.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385455852392" ignored="false" />
@@ -49,6 +41,29 @@
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/UDSReaderSearcher.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385455852392" ignored="false" />
     <file path="/nodescala.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385479256298" ignored="false" />
     <file path="/tests.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385480162100" ignored="false" />
+    <file path="/deathstar_spga.xml" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385524152976" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/deathstar_spga.xml" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385533578614" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/today_service.xml" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385526620498" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/today_asv.xml" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385526620498" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/today_dp.xml" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385526620498" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/common/content-cluster.xml" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385539859719" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/today_only.xml" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385526620498" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/today_olr.xml" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385526620498" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/today_random.xml" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385526620498" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/common/video-content-cluster.xml" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385539859719" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/TodayModuleQueryBuildingSearcher.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385531172374" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/federation/PredefinedTestConfigs.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385563453890" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/config/PredictionConfig.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385563453890" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/scala/com/yahoo/slingstone/deathstar/federation/FederationEngine.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385563453890" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/federation/RobotPredictionService.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385563453890" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/federation/PredefinedUserProfiles.java" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385563453890" ignored="false" />
+    <file path="/search-cluster.xml" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385532273603" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/scala/com/yahoo/slingstone/deathstar/federation/FeatureServerClient.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385633052017" ignored="false" />
+    <file path="/FeatureServerClient.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385623699414" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/federation/FeatureServerClientTest.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385633050407" ignored="false" />
+    <file path="/FeatureServerClientTest.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385545727025" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/scala/com/yahoo/slingstone/deathstar/utils/JavaConversionsExtended.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385633052017" ignored="false" />
+    <file path="/JavaConversionsExtended.scala" changelist="21a83678-f869-4807-8ce3-4ef79900fcad" time="1385623449204" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -602,7 +617,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -674,44 +689,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/lib_managed/srcs/org.scala-lang/scala-library/scala-library-2.10.2-sources.jar!/scala/concurrent/impl/Promise.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="160" column="14" selection-start="6371" selection-end="6371" vertical-scroll-proportion="1.0895523">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib_managed/srcs/org.scala-lang/scala-library/scala-library-2.10.2-sources.jar!/scala/Predef.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="251" column="18" selection-start="12326" selection-end="12326" vertical-scroll-proportion="5.350746">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib_managed/srcs/org.scala-lang/scala-library/scala-library-2.10.2-sources.jar!/scala/concurrent/Promise.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="106" column="23" selection-start="3526" selection-end="3526" vertical-scroll-proportion="0.33235726">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/common/package.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="15" selection-start="36" selection-end="36" vertical-scroll-proportion="0.033674963">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib_managed/srcs/org.scala-lang/scala-library/scala-library-2.10.2-sources.jar!/scala/concurrent/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="4" selection-start="2409" selection-end="2409" vertical-scroll-proportion="-0.44948757">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib_managed/srcs/org.scala-lang/scala-library/scala-library-2.10.2-sources.jar!/scala/concurrent/Future.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="170" column="9" selection-start="6121" selection-end="6121" vertical-scroll-proportion="0.33283582">
           <folding />
         </state>
       </provider>
@@ -733,13 +713,6 @@
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_21.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="246" column="23" selection-start="7292" selection-end="7292" vertical-scroll-proportion="0.33235726">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib_managed/srcs/org.scala-lang.modules/scala-async_2.10/scala-async_2.10-0.9.0-M2-sources.jar!/scala/async/Async.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="3" selection-start="1372" selection-end="1372" vertical-scroll-proportion="0.6046852">
           <folding />
         </state>
       </provider>

@@ -2,49 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aeda63c-ec28-4422-980d-4687f3dc5cc8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../nodescala/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../nodescala/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulations/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../simulations/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="suggestions.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386554465197" ignored="false" />
+    <file path="/Dummy.txt" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1387178458917" ignored="false" />
     <file path="/SwingApi.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386511775345" ignored="false" />
     <file path="/SwingApiTest.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386512072197" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../prototype/scalatest/src/HelloWorld.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386660864642" ignored="false" />
-    <file path="/HelloWorld.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386660840580" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../prototype/scalatest/src/HelloWorld.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386746813703" ignored="false" />
+    <file path="/HelloWorld.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386746661003" ignored="false" />
     <file path="/WikipediaApi.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386691274310" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/MixSnippetSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/MixSnippetSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386832664892" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/conf/buckets/deathstar_spga.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
     <file path="/deathstar_spga.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386557994176" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/conf/buckets/deathstar_prediction.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
     <file path="/deathstar_prediction.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386558075705" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/conf/buckets/deathstar_prediction_gmp.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657189944" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/conf/buckets/deathstar_prediction_gmp.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386747065499" ignored="false" />
     <file path="/deathstar_prediction_gmp.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657189944" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/config/MatchTypeConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/config/MatchTypeConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
     <file path="/MatchTypeConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386558657143" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/config/MatchTypeContextConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
     <file path="/MatchTypeContextConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386558959464" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/scala/com/yahoo/slingstone/deathstar/federation/PredictionClient.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
-    <file path="/PredictionClient.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654694667" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/scala/com/yahoo/slingstone/deathstar/federation/FederationEngine.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
-    <file path="/FederationEngine.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386559883123" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/federation/MatchTypeOperation.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/scala/com/yahoo/slingstone/deathstar/federation/PredictionClient.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386832310687" ignored="false" />
+    <file path="/PredictionClient.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386740015190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/scala/com/yahoo/slingstone/deathstar/federation/FederationEngine.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386832310687" ignored="false" />
+    <file path="/FederationEngine.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386750385924" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/federation/MatchTypeOperation.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386747528778" ignored="false" />
     <file path="/MatchTypeOperation.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386559853341" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/core/MatchTypeContext.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/core/MatchTypeContext.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
     <file path="/MatchTypeContext.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386559829918" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/federation/PredictionClientTest.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/federation/PredictionClientTest.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
     <file path="/PredictionClientTest.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386560512360" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/config/BucketConfigParser.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
     <file path="/BucketConfigParser.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386560653739" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/common/search-cluster.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/common/search-cluster.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386819512153" ignored="false" />
     <file path="/search-cluster.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386561198717" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/deathstar_prediction_gmp.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386561299253" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/pom.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/pom.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386755437183" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/ASVWithBreakingNewsBlendingSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/RecommendationReasonSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/ClusterDedupDetailSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
@@ -53,18 +49,18 @@
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/TodayModuleHistoryRotationSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/spga_base.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/RangeQueryBuildingSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/common/doc-proc.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/common/common-config.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/common/doc-proc.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/common/common-config.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/moneyball/MoneyballFetchingSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/moneyball/MoneyballBlendingSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/ASVWithExplorationBlendingSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/VarietyRankingSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/Constant.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/Constant.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386845602154" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/TopEntitiesCountSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/sp_content_nrt_sid_rerank_age.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/sp_content_nrt_sid_rerank_age.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386747086212" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/little_santa_maria_maximal_new.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/video_only.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/PopularityRetrievingSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/PopularityRetrievingSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386819512153" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/MMRDiversityRerankingSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/ScreenQueryBuildingSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/InstrumentBackFillSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386575424728" ignored="false" />
@@ -84,39 +80,39 @@
     <file path="/SBT" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386581562665" ignored="false" />
     <file path="/fragment.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386582019756" ignored="false" />
     <file path="/WikipediaApiTest.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386691381698" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/snippet/SnippetClient.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/common/yamas-config.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
-    <file path="/yamas-config.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386642621334" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/snippet/SnippetClient.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386832310687" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/common/yamas-config.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386832310687" ignored="false" />
+    <file path="/yamas-config.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386817393077" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/config/XMLConfigFileParser.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386643715124" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/diversity_gbdt_control.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/SnippetConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386656471033" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/SnippetConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386828106800" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/little_santa_gbdt_nobias.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/grandSlam_finance.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/explore_impact.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/today_asv_norule.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/searchplatform/searcher/MixSnippetSearcherTest.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
-    <file path="/MixSnippetSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386646150803" ignored="false" />
-    <file path="/SnippetClient.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386645002694" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/grandSlam_finance.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/explore_impact.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/today_asv_norule.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386747086211" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/searchplatform/searcher/MixSnippetSearcherTest.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="/MixSnippetSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386832643952" ignored="false" />
+    <file path="/SnippetClient.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386828899530" ignored="false" />
     <file path="/MixSnippetSearcherTest.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386646325162" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/GMPDocumentCountConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/MMRDiversityConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/ClusterDedupConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/ClusterDedupConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386828106800" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/VarietyConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/UISConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/SetHitsConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/TodayModuleBizRuleConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/OffnetThresholdConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/UserHistoryDemoteConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/GBDTTrainingSetCollectConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/CustomUPConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/COREConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/GBDTTrainingSetCollectConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386818694114" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/CustomUPConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386828106800" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/COREConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386828106800" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/ASVConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/ExpireEmbargoFilterConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/FreshConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/CacheConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/TodayModuleQueryConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/HttpRequestConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/LatentFactorModelConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/HttpRequestConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386818694114" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/LatentFactorModelConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386828106800" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/DocumentCountConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524517" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/TodayModuleConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524518" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/SubQueryConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524518" ignored="false" />
@@ -124,7 +120,7 @@
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/PublishTimeFilterConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524518" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/SherpaConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524518" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/FeatureDumpConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524518" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/BreakingNewsQueryConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524518" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/BreakingNewsQueryConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386818694114" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/OffnetConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524518" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/target/generated-sources/vespa-configgen-plugin/com/yahoo/slingstone/searchplatform/searcher/UDSConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386654524518" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/diversity_gbdt_inf.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
@@ -143,6 +139,81 @@
     <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/today_spga_backup.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386657185339" ignored="false" />
     <file path="/WikipediaSuggest.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386693901324" ignored="false" />
     <file path="/ObservableEx.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386693517015" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/spga.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/myyahoo.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386740005991" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/today_asv.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386747086212" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/ga.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386740005991" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/grandSlam_finance_preference.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386740005991" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../prototype/scalatest/src/MatchType.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386744950863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../prototype/scalatest/src/JavaMatchType1.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386744983076" ignored="false" />
+    <file path="/JavaMatchType1.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386744982275" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../prototype/scalatest/src/JavaMatchType2.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386744998460" ignored="false" />
+    <file path="/JavaMatchType2.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386744997979" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../prototype/scalatest/src/ScalaMatchType.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386745023701" ignored="false" />
+    <file path="/ScalaMatchType.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386745019819" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd1-ne1/today-content-hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386747086211" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/conf/serving.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/gbdt_training_set_collection.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386747086211" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/today_random.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd2-bf1/today-content-hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/common/content-cluster.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/scala/com/yahoo/slingstone/deathstar/federation/HttpMatchType.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd2-gq1/today-content-hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386747086212" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/federation/RobotHttpMatchType.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd2-ne1/today-content-hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854541" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd1-bf1/today-content-hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/core/Document.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/config/PredictionConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/core/FederationContext.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/scala/com/yahoo/slingstone/deathstar/utils/UserProfileUtils.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854541" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd1-gq1/today-content-hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386747086212" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/cookie/ICookieUtil.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/userprofile/UserProfile.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/config/IServingConfig.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/federation/SearchChainMatchType.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854541" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/deathstar/federation/NonBlockingMatchType.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854541" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/today_dp.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd1-bf1/ca-content-hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd1-bf1/hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/default.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/today_nrt_olr.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd1-gq1/ca-content-hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd1-gq1/qr-servers.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd1-gq1/offnet-content-hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd1-ne1/ca-content-hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd1-ne1/qr-servers.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd1-ne1/hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd1-ne1/offnet-content-hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd2-bf1/ca-content-hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/today_olr.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd2-bf1/offnet-content-hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd2-gq1/qr-servers.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd2-gq1/hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd2-gq1/offnet-content-hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd2-ne1/ca-content-hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854541" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/clusters/prd2-ne1/hosts.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854541" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/config/application/search/query-profiles/popularity.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386749854541" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/scala/com/yahoo/slingstone/deathstar/federation/FederationEngineTest.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386753090899" ignored="false" />
+    <file path="/FederationEngineTest.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386753090899" ignored="false" />
+    <file path="$PROJECT_DIR$/../../finagle-workflow/src/main/scala/slingstone/service/UdsService.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386770912465" ignored="false" />
+    <file path="/UdsService.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386770835307" ignored="false" />
+    <file path="$PROJECT_DIR$/../../finagle-workflow/pom.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386755789119" ignored="false" />
+    <file path="/pom.xml" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386755786407" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/FeatureFillingSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386819512153" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/ASVBaseQueryBuildingSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386819512153" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/test/java/com/yahoo/slingstone/deathstar/core/DocumentTest.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386815955908" ignored="false" />
+    <file path="/DocumentTest.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386814610359" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/searchplatform_serving/src/main/java/com/yahoo/slingstone/searchplatform/searcher/HttpRequestSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386828345561" ignored="false" />
+    <file path="/HttpRequestSearcher.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1386828334820" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../slingstone/snippet/src/main/java/com/yahoo/slingstone/snippet_service/common/VespaFriendlyApi.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1387178744368" ignored="false" />
+    <file path="/VespaFriendlyApi.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1387178744008" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../slingstone/snippet/src/main/java/com/yahoo/slingstone/snippet_service/searcher/FieldSubstitutionSearcher.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1387184231561" ignored="false" />
+    <file path="/FieldSubstitutionSearcher.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1387184123335" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../slingstone/snippet/src/main/java/com/yahoo/slingstone/snippet_service/common/CommonFunctions.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1387184014271" ignored="false" />
+    <file path="/CommonFunctions.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1387184007786" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../slingstone/snippet/src/main/java/com/yahoo/slingstone/snippet_service/common/Constants.java" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1387184200179" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../slingstone/snippet/src/test/java/com/yahoo/slingstone/snippet_service/common/CommonFunctionsTest.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1387184380202" ignored="false" />
+    <file path="/CommonFunctionsTest.scala" changelist="3aeda63c-ec28-4422-980d-4687f3dc5cc8" time="1387184380202" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +228,8 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
         <option name="NOTIFY_UNCAUGHT" value="true" />
@@ -202,10 +274,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SwingApi.scala" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="SwingApi.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/gui/SwingApi.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="43" selection-start="1294" selection-end="1294" vertical-scroll-proportion="0.0">
+            <state line="47" column="43" selection-start="1294" selection-end="1294" vertical-scroll-proportion="0.40785497">
               <folding />
             </state>
           </provider>
@@ -215,9 +287,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/gui/WikipediaApi.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state line="27" column="60" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#33#65#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -226,9 +296,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/scala/suggestions/WikipediaApiTest.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state line="78" column="18" selection-start="2149" selection-end="2149" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#23#49#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -237,9 +305,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/observablex/ObservableEx.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state line="19" column="6" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#41#91#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -248,6 +314,15 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/observablex/SchedulerEx.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state line="7" column="7" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/package.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="15" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -262,13 +337,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WikipediaSuggest.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="WikipediaSuggest.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/gui/WikipediaSuggest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="56" selection-start="2980" selection-end="2980" vertical-scroll-proportion="0.49848023">
-              <folding>
-                <element signature="e#33#75#0" expanded="true" />
-              </folding>
+            <state line="87" column="56" selection-start="2980" selection-end="2980" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -576,11 +649,19 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suggestions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -829,30 +910,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="831" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3994374" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24605452" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -920,68 +1001,86 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.ivy2/cache/com.netflix.rxjava/rxjava-core/srcs/rxjava-core-0.15.0-sources.jar!/rx/util/functions/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="21" selection-start="761" selection-end="761" vertical-scroll-proportion="0.18181819">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/com.netflix.rxjava/rxjava-core/srcs/rxjava-core-0.15.0-sources.jar!/rx/operators/OperationDebounce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="54" selection-start="3462" selection-end="3462" vertical-scroll-proportion="0.18348624">
-          <folding>
-            <element signature="e#3156#3399#0" expanded="false" />
-            <element signature="e#3388#3389#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.netflix.rxjava/rxjava-scala/srcs/rxjava-scala-0.15.0-sources.jar!/rx/lang/scala/Notification.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="16" selection-start="978" selection-end="978" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="33" column="16" selection-start="978" selection-end="978" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.2-sources.jar!/scala/Function1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="6" selection-start="1701" selection-end="1701" vertical-scroll-proportion="0.41791046">
-          <folding />
-        </state>
+        <state line="38" column="6" selection-start="1701" selection-end="1701" vertical-scroll-proportion="0.41791046" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.2-sources.jar!/scala/util/Try.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="18" selection-start="3053" selection-end="3053" vertical-scroll-proportion="-2.171303">
-          <folding />
-        </state>
+        <state line="61" column="18" selection-start="3053" selection-end="3053" vertical-scroll-proportion="-2.171303" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.netflix.rxjava/rxjava-scala/srcs/rxjava-scala-0.15.0-sources.jar!/rx/lang/scala/Observer.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="8" selection-start="707" selection-end="707" vertical-scroll-proportion="0.35139093">
-          <folding />
-        </state>
+        <state line="20" column="8" selection-start="707" selection-end="707" vertical-scroll-proportion="0.35139093" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.netflix.rxjava/rxjava-core/srcs/rxjava-core-0.15.0-sources.jar!/rx/Observable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="170" column="16" selection-start="6150" selection-end="6150" vertical-scroll-proportion="0.69104475">
-          <folding />
-        </state>
+        <state line="170" column="16" selection-start="6150" selection-end="6150" vertical-scroll-proportion="0.69104475" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.netflix.rxjava/rxjava-core/srcs/rxjava-core-0.15.0-sources.jar!/rx/subjects/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="29" selection-start="774" selection-end="774" vertical-scroll-proportion="0.20044543">
-          <folding />
-        </state>
+        <state line="21" column="29" selection-start="774" selection-end="774" vertical-scroll-proportion="0.20044543" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.netflix.rxjava/rxjava-scala/srcs/rxjava-scala-0.15.0-sources.jar!/rx/lang/scala/Observable.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="237" column="7" selection-start="8944" selection-end="8944" vertical-scroll-proportion="-0.49311927">
+        <state line="237" column="7" selection-start="8944" selection-end="8944" vertical-scroll-proportion="-0.49311927" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/suggestions/WikipediaApiTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="18" selection-start="2149" selection-end="2149" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/gui/WikipediaApi.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="60" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/gui/WikipediaSuggest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="56" selection-start="2980" selection-end="2980" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/observablex/ObservableEx.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="6" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/observablex/SchedulerEx.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="7" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="15" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/suggestions/SwingApiTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="34" selection-start="516" selection-end="524" vertical-scroll-proportion="0.20392749">
           <folding />
         </state>
       </provider>
@@ -995,51 +1094,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/gui/SwingApi.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="43" selection-start="1294" selection-end="1294" vertical-scroll-proportion="0.0">
+        <state line="47" column="43" selection-start="1294" selection-end="1294" vertical-scroll-proportion="0.40785497">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/observablex/SchedulerEx.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="7" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/observablex/ObservableEx.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="6" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#41#91#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/suggestions/WikipediaApiTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="18" selection-start="2149" selection-end="2149" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#23#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/gui/WikipediaApi.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="60" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#33#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/suggestions/gui/WikipediaSuggest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="56" selection-start="2980" selection-end="2980" vertical-scroll-proportion="0.49848023">
-          <folding>
-            <element signature="e#33#75#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
